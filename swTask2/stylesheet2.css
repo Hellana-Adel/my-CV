@@ -1,0 +1,36 @@
+a{
+    background-image: url("hellana.jepg");
+    position: absolute;
+    top: 0%;
+    height: 350px;
+      
+    float:left;
+    
+}
+#c,b{
+ 
+  margin: 20px;
+  padding: 20px;
+}
+#a,b{
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+
+}
+#c,b,cc{
+    background-color: wheat;
+}
+#f{
+    float: right;
+    padding: 30px;
+    margin: 30px;
+}
+#d{ float: right;
+    margin: 30px;
+    padding: 30px;
+}
+#cc{
+    float:inline-end;
+    background-size: 20px;
+}
